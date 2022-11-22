@@ -1,19 +1,18 @@
-# DA-Kemz
-
-
-My First Data Analysis
-
-
-Problem Statement
+# Project Name - DA-Kemz
 
 
 
-Data Sourcing
+....
+# Project Objective - Problem Statement
 
 
+....
+# Data Sourcing
 
-Data Cleaning
+
+....
+# Data Cleaning
 
 
-
-Findings and Recommendation
+....
+# Findings and Recommendation
