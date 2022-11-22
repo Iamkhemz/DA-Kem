@@ -1,4 +1,4 @@
-# Project Name - My First Data Amalysis - Repository
+# Project Name - My First Data Analysis - Repository
 
 
 
